@@ -1,0 +1,3 @@
+[submodule "secure-pomerium-tunneler"]
+	path = secure-pomerium-tunneler
+	url = https://github.com/salesforce/secure-pomerium-tunneler.git
